@@ -1,0 +1,2795 @@
+{
+	"description" : "",
+	"name" : "Hosts (adguardmobile)",
+	"rules" :  [
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adeventtracker.spotify.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "do-not-tracker.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "eviltracker.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "trackersimulator.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.kidoz.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.tenjin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracker.mtrtb.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.ws.eurosport.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracker.rqmob.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "logconfig.polarisoffice.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analysis.polarisoffice.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "fraudmetrix.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "plbslog.umeng.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analysys.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "logs.supersonic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.appsflyer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "register.appsflyer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "events.appsflyer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stats.appsflyer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "t.appsflyer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.appsflyer.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "relap.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adj.st"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sq.requestads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "insight.ucweb.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "gjapplog.ucweb.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stat.meitudata.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "collect.media.jio.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "log.apk.v-mate.mobi"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.mobshark.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "dsp-adcreative.mobshark.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "dsptrack.mobshark.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.metrix.ir"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "hwstats.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "dsp-tracking.unityads.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "installtracker.unityads.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.adsx.unityads.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.prd.mz.internal.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "publisher-event.ads.prd.ie.internal.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "publisher-event.unityads.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "userreporting.cloud.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.cloud.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cdn-adn.rayjump.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sg01.rayjump.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cafe-log.myshoplus.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "de01.rayjump.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stat.m.360.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stats-a.maxthon.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "pgapi.ksmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "helpgrid1.ksmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "gcm.ksmobile.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "gameanalisys.appcpi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adsaccount.appcpi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adtrack.appcpi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "remain.appcpi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "appmetr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.tenjin.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stats.abbi.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tr.snapchat.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.aatkit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "reporting.aatkit.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "geo.go2s.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "log.go2s.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "batsavcdn.ksmobile.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cfg.cml.ksmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tealand.cmcm.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "geoinfo.i2w.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cmplay.did.ijinshan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.i2w.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "detect.rayjump.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "26f396e0b71780f057be4d4af8ebe55b.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "a.appbaqend.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ue.flipboard.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "mobileapptracking.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ilyonanalytics.herokuapp.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "gcm.ksmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ninja.onap.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.splkmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sdk.stats-locations.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "config.safedk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.safedk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "elephantdata.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sdks.stats-locations.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "imp.startappservice.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.intl.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "storeconfig.mistat.intl.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ploy.batmobi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "an.batmobi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ustat.batmobi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.any.do"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "zeus.ad.intl.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.ad.intl.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sdkconfig.ad.intl.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "alog.umeng.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "oc.umeng.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "m.vpadn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.instabug.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sts.batmobi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "pps-log.op-mobile.opera.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "event.allnews.uodoo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tktracker.aotter.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tkrecorder.aotter.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "android.bugly.qq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "astat.bugly.qq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ios.bugly.qq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "fdplttrk.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.trnox.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rts.mobula.sdk.duapps.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "aftonbladetnya.sc.omtrdc.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "omni-ads.omni.news"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "npario-inc.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "engine.mobileapptracking.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "wzrkt.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics-events.inshorts.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "e-ssl.apsalar.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "collector-axa.cloud.ca.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.adform.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.ff.avast.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.miui.security.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metok.sys.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sync.adotmob.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "logger.cloudmobi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracker.adotmob.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "measuread.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics-tracker.thescore.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "app.roximity.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "dc.webtrends.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rosenberg.appmetrica.webvisor.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.oneaudience.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.gameofwhales.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "geoplugin.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "d.applvn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rt.applvn.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sdklogs.avocarrot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "apiv2.moengage.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rt.applovin.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.uc.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "uc.ucweb.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "puds.ucweb.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "patriot.cs.pp.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "amdc.m.taobao.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sdk-orion.appboy.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "pippio.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "io.narrative.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "loadus.exelator.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.viewster.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "logcollector.viewster.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "decide.mixpanel.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "applog.uc.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "dispatcher.upmc.uc.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "gj.applog.uc.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "gjapplog.uc.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "mazu.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "shenghuo.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "globalapi.ad.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.ad.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "a.bitmango.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.directservices.it"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "vortex.data.microsoft.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "onedrive-collection.device.mobileengagement.windows.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metrics.timewarnercable.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "amptrack-dailymail-co-uk.cdn.ampproject.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metrics-cbslocal-com.cdn.ampproject.org"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "counter.hdvb.info"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking-server-prod-1.zenmxapps.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "config.uca.cloud.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.uca.cloud.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "resolver.msg.xiaomi.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "resolver.gslb.mi-idc.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "o2o.api.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "auth.be.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "geoip.ifunny.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "alogs.umeng.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "alogs.umengcloud.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stats.umsns.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.rayjump.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "iapp-cp.nuggad.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "4seeresults.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "abtest.mistat.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ad-analytics-bootstrap.metaps.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adfuture.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adserver.snapads.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adsunflower.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "adv.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "advmob.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "alog.umeng.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "alog.umengcloud.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "amp-error-reporting.appspot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics-server.gimbal.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.ad.daum.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.liftoff.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.mobile.yandex.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.mopub.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analytics.query.yahoo.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analyzer.omniata.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "andmlb.kshwtj.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api-analytics-bootstrap.metaps.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api-analytics.metaps.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.amplitude.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.analytics.omgpop.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.appsee.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.apptentive.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.branch.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.crittercism.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rubick.gameanalytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.gameanalytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.gimbal.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "api.taplytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "appmetrica.yandex.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "appmetrica.yandex.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ar.umeng.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "beacon.carfax.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "beacon.qq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "beacon.shazam.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "beha.ksmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "bidder.mdspinc.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "brahe.apptimize.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "c.bigmir.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "carfax.sc.omtrdc.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cb.ksmobile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cedexis-radar.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "cedexis.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "clientmetrics-augmentum.kik.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "clientmetrics.kik.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "clktrk.display.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "collector.brandify.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "config2.mparticle.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "counter.kingsoft.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "crasheye.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "crwdcntrl.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "data.mistat.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "data.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "demdex.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "dsg.sc.omtrdc.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ep.xone.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "etl.xlmc.sandai.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "events.lbesecapi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "geoip.fotoable.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "google-analytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "googleadapis.l.google.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "iam-agof-app.irquest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "imp.apprevolve.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "installtracker.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "krxd.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "lepodownload.mediatek.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "lhzbdvm.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "log.droid4x.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "log.umsns.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "logger.ntracecloud.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "logupdate.avlyun.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "lp4.io"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metrics.adflake.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metrics.bestbuy.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metrics.macys.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "metrics.sdkbox.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "mlb.did.ijinshan.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "mobile-collector.newrelic.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "mobilelog.upqzfile.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ms.cmcm.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "mtlog.droid4x.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "nativesdks.mparticle.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "nlog.droid4x.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "nrc.tapas.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "oc.umeng.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "online-metrix.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "openstat.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ping.taplytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ping.xlmc.sandai.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "pingma.qq.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "prugskh.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "prugskh.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "quantcount.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "r.browser.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rc.dxsvr.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "report.appmetrica.yandex.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rlog-api.under9.co"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "rlog.9gag.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sc-analytics.appspot.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "sdkconfig.ad.xiaomi.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ssl-google-analytics.l.google.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stat.duokanbox.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "statistics.videofarm.daum.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stats.popcap.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "stats.unity3d.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tapjoy.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tapjoy.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "taurus.iad.appboy.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tknet.rayjump.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tns.simba.taobao.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "track.pingstart.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracker-api.my.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.lenzmx.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tracking.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "trk.pinterest.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tu.dxcnd.cn"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "tunein.adswizz.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ulink.adjust.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "upalytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ups.ksmobile.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ws.ksmobile.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "www-google-analytics.l.google.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "xlmc.sec.miui.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "yadro.ru"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "ymtracking.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "zdbb.net"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "localytics.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "upoll.umengcloud.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "utop.umengcloud.com"
+        },
+        {
+            "action" : "deny",
+            "creationDate" : 1586353781,
+            "modificationDate" : 1586353781,
+            "notes" : "",
+            "owner" : "any",
+            "process" : "any",
+            "remote-domains" : "analy.qq.com"
+        }    ]
+}
